@@ -3,11 +3,21 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
+
+function CadastroVideo(){
+  return(
+    <div>
+      Pagína de cadastro de video
+    </div>
+  )
+}
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+    < Route path='/cadastro/video' component={CadastroVideo} exact />
+    < Route path='/' component={App} exact />
+  </BrowserRouter>,
   document.getElementById('root')
 );
 
