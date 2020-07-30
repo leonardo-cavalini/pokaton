@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "TÁ PEGANDO FOGO BICHO! - THE JOY OF CREATION: STORY MODE (Da Zuera) #3/FINAL",
-          "url": "<iframe width="727" height="409" src="https://www.youtube.com/embed/MCk666_VmqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+          "titulo": "THE JOY OF CREATION: STORY MODE (Da Zuera)",
+          "url": "https://youtu.be/MCk666_VmqE" 
         },
         {
           "titulo": "SEO com React",
