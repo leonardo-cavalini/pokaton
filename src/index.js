@@ -13,6 +13,7 @@ ReactDOM.render(
     < Route path='/cadastro/video' component={CadastroVideo} exact />
     < Route path='/cadastro/categoria' component={CadastroCategoria} exact />  
     < Route path='/' component={Home} exact />
+    < Route component={() => <div>Página 404</div>} />
   </BrowserRouter>,
   document.getElementById('root')
 );
