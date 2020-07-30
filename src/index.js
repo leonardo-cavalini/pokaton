@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+//import CadastroVideo from '.pages/cadastro/Video';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
@@ -12,6 +13,7 @@ function CadastroVideo(){
     </div>
   )
 }
+
 
 ReactDOM.render(
   <BrowserRouter>
