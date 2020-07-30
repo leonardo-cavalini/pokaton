@@ -25,6 +25,6 @@ a {
 } 
 
 #root{
-  min-height: 100vh;
-  display: flex;
+  min-height: calc( 100vh - var(--bodyPaddingTop));
+  /*display: flex;*/
 }
