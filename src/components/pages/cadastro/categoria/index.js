@@ -7,8 +7,8 @@ function CadastroCategoria(){
       <PageDefault>
         <h1>Cadastro de Categoria</h1>
 
-        <Link to="/cadastro/categoria">
-          Cadastrar categoria
+        <Link to="/">
+          Ir pra home
         </Link>
       </PageDefault>
     )
