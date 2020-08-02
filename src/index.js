@@ -5,7 +5,7 @@ import Home from './components/pages/Home';
 import CadastroVideo from './components/pages/cadastro/Video';
 //import CadastroVideo from '.pages/cadastro/Video';
 
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { BrowserRouter, Route } from 'react-router-dom';
 import CadastroCategoria from './components/pages/cadastro/categoria';
 
 ReactDOM.render(
