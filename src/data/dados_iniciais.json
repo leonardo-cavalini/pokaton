@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Sugestões",
+      "titulo": "Games Eduu",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "blue",
       "link_extra": {
@@ -10,24 +10,32 @@
       },
       "videos": [
         {
-          "titulo": "ANIMATRONICS DO CAPETA!! - TJOC: REBORN",
-          "url": "https://youtu.be/5dmwacAt8ak"
+          "titulo": "GTA V PC - Olha o SHREK (MODS)",
+          "url": "https://youtu.be/Dy-iuNQYSJI"
         },
         {
-          "titulo": "Pirate Cove",
-          "url": "https://youtu.be/Q8lxJ76XGOE"
+          "titulo": "SEGURA O BICHO! - Crash Bandicoot (PS4)",
+          "url": "https://youtu.be/xHu9Hg2LoAo"
         },
         {
-          "titulo": "Febatista",
-          "url": "https://youtu.be/ZgH5wq8xODA"
+          "titulo": "Snowboard com Cavalo! - Snow Horse",
+          "url": "https://youtu.be/4fTO5MOXgkU"
         },
         {
-          "titulo": "Coisa de Nerd",
-          "url": "https://youtu.be/DG-7lhRmWBg"
+          "titulo": "CHIFRUDO TÁ BRABO! - North Bury Grove",
+          "url": "https://youtu.be/w6ByL3BYfis"
+        },
+        {
+          "titulo": "CACHORRINHO E VOVÓ SNIPER! - Far Cry New Dawn",
+          "url": "https://youtu.be/yolwnEGjpcs"
         },
         {
           "titulo": "Games Eduu",
           "url": "https://youtu.be/KD-0H5zU9rc"
+        },
+        {
+          "titulo": "ESSE BONECO TÁ COM BICHO! - Devil's Toy",
+          "url": "https://www.youtube.com/watch?v=vX4jWjSiTB4"
         }        
       ]
     },
@@ -39,6 +47,10 @@
         "url": ""
       },
       "videos": [
+        {
+          "titulo": "tocadocoelho",
+          "url": "https://youtu.be/4ERkTWhKSSo"
+        },
         {
           "titulo": "tocadocoelho",
           "url": "https://youtu.be/1NAkLk7SXa8"
@@ -54,10 +66,6 @@
         {
           "titulo": "tocadocoelho",
           "url": "https://youtu.be/5JpkviJ9MvY"
-        }, 
-        {
-          "titulo": "tocadocoelho",
-          "url": "https://youtu.be/4ERkTWhKSSo"
         }
       ]
     },
@@ -92,28 +100,52 @@
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "purple",
+      "titulo": "Dark Deception  *Febatista*",
+      "cor": "grey",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "LABIRINTO DO TERROR!",
+          "url": "https://youtu.be/IyjT7c0E2nw?list=PLfDpEY5tf_XjuzZSdIryftD-o3snjxYPz"
         },
         {
-          "titulo": "Ashley ultimato",
-          "url": "https://youtu.be/UrwHsiZOMu0"
+          "titulo": "LABIRINTO DOS ANIMATRONICS",
+          "url": "https://youtu.be/VJ8ZNn0Md6A?list=PLfDpEY5tf_XjuzZSdIryftD-o3snjxYPz"
         },
         {
-          "titulo": "Dragon Ball",
-          "url": "https://youtu.be/d5Afmvtu0QE"
+          "titulo": "ESCOLA DO TERROR! Dark Deception",
+          "url": "https://youtu.be/b_70lEhoOuw?list=PLfDpEY5tf_XjuzZSdIryftD-o3snjxYPz"
         },
         {
-          "titulo": "Dragon Ball",
-          "url": "https://youtu.be/W8w3pga89n0"
+          "titulo": "CUIDADO COM ELE! DARK DECEPTION",
+          "url": "https://youtu.be/PFAAl1WL56Q?list=PLfDpEY5tf_XjuzZSdIryftD-o3snjxYPz"
         },
         {
-          "titulo": "Cavaleiros do Zodiaco",
-          "url": "https://youtu.be/mm-xvmIxGf8"
+          "titulo": "LABIRINTO DO TERROR IMPOSSÍVEL! Dark Deception",
+          "url": "https://youtu.be/gW1eiKLCO1Y?list=PLfDpEY5tf_XjuzZSdIryftD-o3snjxYPz"
+        },
+        {
+          "titulo": "LABIRINTO DO TERROR! Dark Deception",
+          "url": "https://youtu.be/_kID-4JjwLw?list=PLfDpEY5tf_XjuzZSdIryftD-o3snjxYPz"
+        },
+        {
+          "titulo": "PATO DIABÓLICO! LABIRINTO DO TERROR *dark deception*",
+          "url": "https://youtu.be/ZR2DVWt-Dtw?list=PLfDpEY5tf_XjuzZSdIryftD-o3snjxYPz"
+        },
+        {
+          "titulo": "PATO CHEFÃO! LABIRINTO DO TERROR *dark deception*",
+          "url": "https://youtu.be/7EC15r0Kj2A?list=PLfDpEY5tf_XjuzZSdIryftD-o3snjxYPz"
+        },
+        {
+          "titulo": "FUJA DOS PALHAÇOS! LABIRINTO DO TERROR *dark deception*",
+          "url": "https://youtu.be/E0epQI87T1Y?list=PLfDpEY5tf_XjuzZSdIryftD-o3snjxYPz"
+        },
+        {
+          "titulo": "PARQUE DO TERROR! * dark deception *",
+          "url": "https://youtu.be/PR52NkhD2zg?list=PLfDpEY5tf_XjuzZSdIryftD-o3snjxYPz"
+        },
+        {
+          "titulo": "CHEFÃO DOS PALHAÇOS! * dark deception *",
+          "url": "https://youtu.be/BRSiN2mNOZg?list=PLfDpEY5tf_XjuzZSdIryftD-o3snjxYPz"
         }
       ]
     },
@@ -148,7 +180,7 @@
       ]
     },
     {
-      "titulo": "Nintendo",
+      "titulo": "Nintendo Switch",
       "cor": "red",
       "link_extra": {
         "text": "",
@@ -156,29 +188,33 @@
       },
       "videos": [
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Super Mario Odyssey - Full Game Walkthrough",
+          "url": "https://youtu.be/sgHDIUxR23E"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Mario Kart 8 Deluxe - FULL GAME Walkthrough",
+          "url": "https://youtu.be/-vVUFWd2hxA"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Sonic Forces (Nintendo Switch) Full Game",
+          "url": "https://youtu.be/KLDHgGb1i14"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "THE LEGEND OF ZELDA BREATH OF THE WILD FULL Gameplay Walkthrough",
+          "url": "https://youtu.be/FMhI2QvQa8c"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Como prolongar a vida útil da bateria do seu Nintendo Switch",
+          "url": "https://youtu.be/nRiWv2Na_VU"
+        },
+        {
+          "titulo": "Problema de Drifting - Limpeza do Joy-Con",
+          "url": "https://youtu.be/IlyxiGEvL48"
         }
       ]
     },
     {
-      "titulo": "Core Das Antigas",
+      "titulo": "Resident Evil",
       "cor": "green",
       "link_extra": {
         "text": "",
@@ -186,24 +222,44 @@
       },
       "videos": [
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "RESIDENT EVIL 7 Biohazard",
+          "url": "https://youtu.be/B9h4yYnstkA"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Resident Evil 6 Leon Walkthrough",
+          "url": "https://youtu.be/wG_ZEUS37jE"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Resident Evil 5 Remastered (PS4)",
+          "url": "https://youtu.be/7VBOgQISfiY"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Resident Evil 4 PS4",
+          "url": "https://youtu.be/g5GrJrdM0sM"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "RESIDENT EVIL 3 REMAKE",
+          "url": "https://youtu.be/QOKzmU5XOb4"
+        },
+        {
+          "titulo": "RESIDENT EVIL 2 REMAKE - Claire & Leon Story",
+          "url": "https://youtu.be/mLDPx1_S5so"
+        },
+        {
+          "titulo": "Resident Evil Remaster Jill",
+          "url": "https://youtu.be/OFyjzKVgXeI"
+        },
+        {
+          "titulo": "Resident Evil: Revelations",
+          "url": "https://youtu.be/6F_YPKQM90k"
+        },
+        {
+          "titulo": "Resident Evil Revelations 2",
+          "url": "https://youtu.be/3M67Tu5A5f0"
+        },
+        {
+          "titulo": "Resident Evil : Code Veronica X",
+          "url": "https://youtu.be/W0qQQ4iSp2E"
         }
       ]
     }
