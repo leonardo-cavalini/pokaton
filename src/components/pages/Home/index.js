@@ -11,8 +11,8 @@ function Home() {
       <Menu />
       
       <BannerMain 
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
-        url={dadosIniciais.categorias[0].videos[0].url}
+        videoTitle={dadosIniciais.categorias[4].videos[5].titulo}
+        url={dadosIniciais.categorias[4].videos[5].url}
         videoDescription={""}
       />
 
@@ -52,8 +52,6 @@ function Home() {
       <Carousel
         category={dadosIniciais.categorias[7]}
       />
-
-      
 
       <Footer />
     </div>
