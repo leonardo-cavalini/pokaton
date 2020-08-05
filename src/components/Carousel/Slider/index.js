@@ -27,7 +27,7 @@ const Container = styled.ul`
   }
 `;
 
-export const SliderItem = styled.li`
+export const SliderItem = styled.a`
   margin-right: 16px;
   img {
     margin: 16px;
@@ -35,6 +35,10 @@ export const SliderItem = styled.li`
     height: 197px;
     object-fit: cover;
   }
+  &:hover { transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1); }
 `;
 
 
