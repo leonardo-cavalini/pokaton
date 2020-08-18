@@ -26,14 +26,15 @@ a {
 
 #root {
   min-height: calc(100vh - var(--bodyPaddingTop));
-  background: orange;
+  background: #141414;
   display: flex;
   flex-direction: column;
 }
 
 a:hover{
-  font-size: 20px;
-  border: solid 5px ;
+  font-size: 18px;
+  border:linear 100px ;
   transition: border-width 10ms;
-  border-radius: 3mm;
+  border-radius: 6mm;
 }
+
